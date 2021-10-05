@@ -5,10 +5,12 @@ Bem-vindo ao meu GitHub! Aqui você irá encontrar projetos com HTML, CSS e fram
 <div style="display: inline_block"><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaabemonteiro)](https://github.com/gaabemonteiro/github-readme-stats)
-  
+
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
+<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
 <img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-<img widht="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
 <div>
 <br>
   
