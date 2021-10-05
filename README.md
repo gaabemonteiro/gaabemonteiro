@@ -1,5 +1,7 @@
 ## Olá, eu me chamo Gabrielle! 👋
 
+Bem-vindo ao meu GitHub! Aqui você irá encontrar projetos com HTML, CSS e frameworks como o Bootstrap.
+
 <div style="display: inline_block"><br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaabemonteiro)](https://github.com/gaabemonteiro/github-readme-stats)
